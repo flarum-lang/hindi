@@ -2,7 +2,7 @@
 
 ---------
 
-# Xxish language pack for [Flarum](https://flarum.org/)
+# Hindi language pack for [Flarum](https://flarum.org/)
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?color=success&label=stable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
 [![Latest Unstable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?include_prereleases&label=unstable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
