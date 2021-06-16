@@ -18,7 +18,7 @@ This language pack contains Xxish translations for Flarum (compatible with `1.0.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require yourname/flarum-lang-xxish
+composer require flarum-lang/hindi
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -29,7 +29,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update yourname/flarum-lang-xxish
+composer update flarum-lang/hindi
 ```
 
 Then clear the cache:
