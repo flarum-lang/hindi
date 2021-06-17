@@ -14,6 +14,8 @@ This language pack contains Hindi translations for Flarum (compatible with `1.0.
 
 इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`1.00` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
 
+हम इस पैक को पूरी क्षमता तक पहुंचाने के लिए तैयार कर रहे हैं। इसमें शामिल होने और योगदान करने के लिए आपका स्वागत है। आइए हम इस पैक को जल्द ही सभी के लिए उपलब्ध कराएं।
+
 ## Installation
 
 You can install language pack using [Composer](https://getcomposer.org/):
