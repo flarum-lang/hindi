@@ -11,6 +11,7 @@
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi/stats) 
 
 This language pack contains Hindi translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
+
 इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`1.00` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
 
 ## Installation
