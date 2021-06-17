@@ -2,7 +2,7 @@
 
 ---------
 
-# Hindi language pack for [Flarum](https://flarum.org/)
+# Hindi language pack for [Flarum](https://flarum.org/) | फ्लॉरुम हिंदी में 
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/hindi?color=success&label=stable)](https://packagist.org/packages/flarum-lang/hindi) 
 [![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/hindi?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/hindi) 
@@ -10,8 +10,8 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi/stats) 
 
-This language pack contains Xxish translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
-
+This language pack contains Hindi translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
+इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`1.00` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
 
 ## Installation
 
@@ -43,8 +43,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/hi/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/hi/) |
+| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/hi/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/hi/) |
 
 
 ## Translation status for official extensions
