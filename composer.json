@@ -1,24 +1,24 @@
 {
-	"name": "yourname/flarum-lang-xxish",
+	"name": "yourname/flarum-lang-hindi",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-xxish",
+	"description": "Hindi language pack for Flarum.",
+	"homepage": "https://github.com/flarum-lang/hindi",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"hindi-locale"
 	],
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Your Name",
 			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
+			"homepage": "https://github.com/flarum-lang/hindi"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-xxish/issues",
-		"source": "https://github.com/yourname/flarum-lang-xxish"
+		"issues": "https://github.com/yourname/flarum-lang-hindi/issues",
+		"source": "https://github.com/yourname/flarum-lang-hindi"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -27,7 +27,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "hindi",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
