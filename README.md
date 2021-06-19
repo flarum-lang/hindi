@@ -4,6 +4,9 @@
 
 # Hindi language pack for [Flarum](https://flarum.org/) | फ्लॉरुम हिंदी में 
 
+## आपका फ्लॉरुम, आपकी भाषा
+
+
 [![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/hindi?color=success&label=stable)](https://packagist.org/packages/flarum-lang/hindi) 
 [![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/hindi?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/hindi) 
 [![License](https://img.shields.io/packagist/l/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi) 
@@ -13,6 +16,10 @@
 This language pack contains Hindi translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
 इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`1.00` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
+
+### कोर का हिंदी अनुवाद 100% पूर्ण है। 
+
+### Hindi translation of the Core is 100% complete.
 
 हम इस पैक को पूरी क्षमता तक पहुंचाने के लिए तैयार कर रहे हैं। इसमें शामिल होने और योगदान करने के लिए आपका स्वागत है। आइए हम इस पैक को जल्द ही सभी के लिए उपलब्ध कराएं।
 
