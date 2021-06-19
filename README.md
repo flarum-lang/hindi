@@ -1,7 +1,3 @@
-**This is template for Flarum language pack. If you want to use it, follow [these instructions](https://github.com/rob006-software/flarum-lang-template/wiki).**
-
----------
-
 # Hindi language pack for [Flarum](https://flarum.org/) | फ्लॉरुम हिंदी में 
 
 ## आपका फ्लॉरुम, आपकी भाषा
