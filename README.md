@@ -79,6 +79,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/hi/) |
 
 <!-- various-extensions-list-stop -->
 
