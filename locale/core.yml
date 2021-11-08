@@ -110,6 +110,9 @@ core:
       no_settings: 'इस एक्सटेंशन की कोई सेटिंग नहीं है।'
       open_modal: 'सेटिंग्स खोलें'
       permissions_title: अनुमतियां
+      readme:
+        button_label: README
+        no_readme: 'ऐसा लगता है कि इस एक्सटेंशन में कोई README फ़ाइल नहीं है'
       uninstall_button: 'स्थापना रद्द करें'
     header:
       get_help: 'मदद लें'
@@ -421,6 +424,7 @@ core:
   lib:
     badge:
       hidden_tooltip: 'छिपा हुआ'
+    debug_button: डिबग
     dropdown:
       toggle_dropdown_accessible_label: 'ड्रॉपडाउन मेनू टॉगल करें'
     edit_user:
