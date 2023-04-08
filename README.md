@@ -62,8 +62,15 @@ php flarum cache:clear
 
 <!-- flarum-extensions-list-start -->
 
-| Extension | Status |
+| एक्सटेंशन | स्थिति |
 | --- | --- |
+| [`flarum/akismet`](https://github.com/flarum/akismet) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/hi/) |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/hi/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/hi/) |
+| [`flarum/flags`](https://github.com/flarum/flags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/hi/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/hi/) |
+| [`flarum/lock`](https://github.com/flarum/lock) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/hi/) |
+| [`flarum/tags`](https://github.com/flarum/tags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/hi/) |
 
 <!-- flarum-extensions-list-stop -->
 
@@ -72,7 +79,7 @@ php flarum cache:clear
 
 <!-- fof-extensions-list-start -->
 
-| Extension | Status |
+| एक्सटेंशन | स्थिति |
 | --- | --- |
 
 <!-- fof-extensions-list-stop -->
@@ -82,9 +89,9 @@ php flarum cache:clear
 
 <!-- various-extensions-list-start -->
 
-| Extension | Status |
+| एक्सटेंशन | स्थिति |
 | --- | --- |
-| [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/hi/) |
+| [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/hi/) |
 
 <!-- various-extensions-list-stop -->
 
@@ -93,7 +100,7 @@ php flarum cache:clear
 
 <!-- premium-extensions-list-start -->
 
-| Extension | Status |
+| एक्सटेंशन | स्थिति |
 | --- | --- |
 
 <!-- premium-extensions-list-stop -->
