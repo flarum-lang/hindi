@@ -5,17 +5,24 @@ CHANGELOG
 0.1.7 (XXXX-XX-XX)
 ------------------
 
-**General changes**:
+**सामान्य अद्यतन**:
 
-* Updated Day.js translations.
-* Updated Flarum core translations.
+* Day.js अनुवाद अपडेट किये गए हैं.
+* Flarum कोर अनुवाद अपडेट किये गए हैं.
 
 
-**Added support for new extensions**:
+**नए एक्सटेंशन के लिए समर्थन जोड़ा गया है**:
 
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/tags`](https://github.com/flarum/tags)
 
 
-All changes: [0.1.6...0.1.7](https://github.com/flarum-lang/hindi/compare/0.1.6...0.1.7).
+सभी परिवर्तन: [0.1.6...0.1.7](https://github.com/flarum-lang/hindi/compare/0.1.6...0.1.7)।
 
 
