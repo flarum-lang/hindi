@@ -91,6 +91,7 @@ php flarum cache:clear
 
 | एक्सटेंशन | स्थिति |
 | --- | --- |
+| [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/hi/) |
 | [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/hi/) |
 
 <!-- various-extensions-list-stop -->
