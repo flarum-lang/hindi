@@ -35,3 +35,10 @@ validation:
   file_too_large: ':attribute बहुत बड़ी है।'
   file_upload_failed: ':attribute अपलोड करने में विफल रहा।'
   filled: ':attribute फ़ील्ड का एक मान होना चाहिए।'
+  gt:
+    array: ':attribute में :value आइटम से अधिक होना चाहिए।'
+    file: ':attribute :value किलोबाइट से अधिक होनी चाहिए।'
+    numeric: ':attribute :value से अधिक होनी चाहिए।'
+    string: ':attribute :value वर्णों से अधिक होनी चाहिए।'
+  gte:
+    numeric: ':attribute :value से अधिक या उसके बराबर होनी चाहिए।'
