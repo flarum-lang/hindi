@@ -16,11 +16,12 @@ flarum-likes:
     post:
       like_link: लाइक
       liked_by_self_text: '{users} ने इसे लाइक किया।'
-      liked_by_text: '{count, plural, one {{users} ने इसे लाइक किया} other {{users} ने इसे लाइक किया}}.'
+      liked_by_text: '{count, plural, one {{users} ने इसे लाइक किया} other {{users} ने इसे लाइक किया}}।'
       others_link: '=> core.ref.some_others'
       unlike_link: अनलाइक
       you_text: '=> core.ref.you'
     post_likes:
+      load_more_button: '=> core.ref.load_more'
       title: 'इसे लाइक करने वाले उपयोगकर्ता'
     settings:
       notify_post_liked_label: 'किसीने मेरे पोस्ट को लाइक किया'
