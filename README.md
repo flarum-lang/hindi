@@ -72,6 +72,7 @@ php flarum cache:clear
 | [`flarum/likes`](https://github.com/flarum/likes) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/hi/) |
 | [`flarum/lock`](https://github.com/flarum/lock) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/hi/) |
 | [`flarum/markdown`](https://github.com/flarum/markdown) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/hi/) |
+| [`flarum/sticky`](https://github.com/flarum/sticky) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-sticky/hi/) |
 | [`flarum/suspend`](https://github.com/flarum/suspend) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-suspend/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-suspend/hi/) |
 | [`flarum/tags`](https://github.com/flarum/tags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/hi/) |
 
