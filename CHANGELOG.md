@@ -17,11 +17,13 @@ CHANGELOG
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
 
 
