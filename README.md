@@ -1,8 +1,3 @@
-> **This language pack is searching for a maintainer!**
->
-> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/hi/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
-
-
 # Hindi language pack for [Flarum](https://flarum.org/) | फ्लॉरुम हिंदी में 
 
 ## आपका फ्लॉरुम, आपकी भाषा
@@ -29,7 +24,7 @@ This language pack contains Hindi translations for Flarum (compatible with `1.0.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/hindi:dev-master
+composer require flarum-lang/hindi
 ```
 
 Then enable extension in admin panel of your Flarum.
