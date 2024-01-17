@@ -12,7 +12,9 @@ CHANGELOG
 
 **नए एक्सटेंशन के लिए समर्थन जोड़ा गया है**:
 
+* [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 
 
 सभी परिवर्तन: [0.1.7...0.1.8](https://github.com/flarum-lang/hindi/compare/0.1.7...0.1.8)।
