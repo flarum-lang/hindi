@@ -66,11 +66,13 @@ php flarum cache:clear
 | --- | --- |
 | [`flarum/akismet`](https://github.com/flarum/akismet) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/hi/) |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/hi/) |
+| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/hi/) |
 | [`flarum/emoji`](https://github.com/flarum/emoji) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/hi/) |
 | [`flarum/flags`](https://github.com/flarum/flags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/hi/) |
 | [`flarum/likes`](https://github.com/flarum/likes) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/hi/) |
 | [`flarum/lock`](https://github.com/flarum/lock) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/hi/) |
 | [`flarum/markdown`](https://github.com/flarum/markdown) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/hi/) |
+| [`flarum/suspend`](https://github.com/flarum/suspend) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-suspend/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-suspend/hi/) |
 | [`flarum/tags`](https://github.com/flarum/tags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/hi/) |
 
 <!-- flarum-extensions-list-stop -->
