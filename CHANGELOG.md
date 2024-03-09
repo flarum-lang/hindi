@@ -18,6 +18,7 @@ CHANGELOG
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 
 
 सभी परिवर्तन: [0.1.7...0.1.8](https://github.com/flarum-lang/hindi/compare/0.1.7...0.1.8)।
