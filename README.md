@@ -85,6 +85,7 @@ php flarum cache:clear
 
 | एक्सटेंशन | स्थिति |
 | --- | --- |
+| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/hi/) |
 
 <!-- fof-extensions-list-stop -->
 
