@@ -49,8 +49,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/hi/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/hi/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/hi/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hi/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/hi/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hi/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/hi/) |
 
 
 ## Translation status for official extensions
@@ -59,22 +59,22 @@ php flarum cache:clear
 
 | एक्सटेंशन | स्थिति |
 | --- | --- |
-| [`flarum/akismet`](https://github.com/flarum/akismet) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/hi/) |
-| [`flarum/approval`](https://github.com/flarum/approval) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/hi/) |
-| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/hi/) |
-| [`flarum/emoji`](https://github.com/flarum/emoji) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/hi/) |
-| [`flarum/flags`](https://github.com/flarum/flags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/hi/) |
-| [`flarum/likes`](https://github.com/flarum/likes) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/hi/) |
-| [`flarum/lock`](https://github.com/flarum/lock) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/hi/) |
-| [`flarum/markdown`](https://github.com/flarum/markdown) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/hi/) |
-| [`flarum/mentions`](https://github.com/flarum/mentions) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-mentions/hi/) |
-| [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-nicknames/hi/) |
-| [`flarum/pusher`](https://github.com/flarum/pusher) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-pusher/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-pusher/hi/) |
-| [`flarum/statistics`](https://github.com/flarum/statistics) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-statistics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-statistics/hi/) |
-| [`flarum/sticky`](https://github.com/flarum/sticky) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-sticky/hi/) |
-| [`flarum/subscriptions`](https://github.com/flarum/subscriptions) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-subscriptions/hi/) |
-| [`flarum/suspend`](https://github.com/flarum/suspend) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-suspend/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-suspend/hi/) |
-| [`flarum/tags`](https://github.com/flarum/tags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/hi/) |
+| [`flarum/akismet`](https://github.com/flarum/akismet) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-akismet/hi/) |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-approval/hi/) |
+| [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-bbcode/hi/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-emoji/hi/) |
+| [`flarum/flags`](https://github.com/flarum/flags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-flags/hi/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-likes/hi/) |
+| [`flarum/lock`](https://github.com/flarum/lock) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-lock/hi/) |
+| [`flarum/markdown`](https://github.com/flarum/markdown) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-markdown/hi/) |
+| [`flarum/mentions`](https://github.com/flarum/mentions) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-mentions/hi/) |
+| [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-nicknames/hi/) |
+| [`flarum/pusher`](https://github.com/flarum/pusher) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-pusher/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-pusher/hi/) |
+| [`flarum/statistics`](https://github.com/flarum/statistics) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-statistics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-statistics/hi/) |
+| [`flarum/sticky`](https://github.com/flarum/sticky) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-sticky/hi/) |
+| [`flarum/subscriptions`](https://github.com/flarum/subscriptions) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-subscriptions/hi/) |
+| [`flarum/suspend`](https://github.com/flarum/suspend) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-suspend/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-suspend/hi/) |
+| [`flarum/tags`](https://github.com/flarum/tags) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-tags/hi/) |
 
 <!-- flarum-extensions-list-stop -->
 
@@ -85,7 +85,7 @@ php flarum cache:clear
 
 | एक्सटेंशन | स्थिति |
 | --- | --- |
-| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/hi/) |
+| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-upload/hi/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -96,8 +96,7 @@ php flarum cache:clear
 
 | एक्सटेंशन | स्थिति |
 | --- | --- |
-| [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/hi/) |
-| [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum/hi/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/hi/) |
+| [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![अनुवादन स्थिति](https://weblate.rob006.net/widgets/flarum2/hi/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/acpl-lscache/hi/) |
 
 <!-- various-extensions-list-stop -->
 
