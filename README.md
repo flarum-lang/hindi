@@ -9,9 +9,9 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/hindi)](https://packagist.org/packages/flarum-lang/hindi/stats) 
 
-This language pack contains Hindi translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
+This language pack contains Hindi translations for Flarum (compatible with `2.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
-इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`1.00` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
+इस भाषा पैक में फ्लॉरुम के लिए हिंदी अनुवाद (`2.0.0` या नए ) और लोकप्रिय एक्सटेंशन शामिल हैं। समर्थित एक्सटेंशन की पूरी सूची नीचे उपलब्ध है।
 
 ### कोर का हिंदी अनुवाद 100% पूर्ण है। 
 
@@ -24,7 +24,7 @@ This language pack contains Hindi translations for Flarum (compatible with `1.0.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/hindi
+composer require "flarum-lang/hindi:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
