@@ -24,7 +24,7 @@ This language pack contains Hindi translations for Flarum (compatible with `1.0.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/hindi
+composer require "flarum-lang/hindi:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
