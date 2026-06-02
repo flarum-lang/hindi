@@ -7,13 +7,14 @@ CHANGELOG
 
 **सामान्य अद्यतन**:
 
-* पुराने Flarum कोर अनुवाद हटा दिए गए हैं(`2.0` या उच्चतर संस्करण समर्थित हैं).
-* पुराने Flarum सत्यापन अनुवाद हटा दिए गए हैं(`2.0` या उच्चतर संस्करण समर्थित हैं).
+* Flarum कोर अनुवाद अपडेट किये गए हैं.
+* Flarum सत्यापन अनुवाद अपडेट किये गए हैं.
 
 
-**एक्सटेंशन के पुराने अनुवादों को अपडेट किया गया और/या हटाया गया है**:
+**एक्सटेंशन के अनुवाद अपडेट किए गए हैं**:
 
 * [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
@@ -31,11 +32,6 @@ CHANGELOG
 * [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
-
-
-**पुराने एक्सटेंशन के लिए समर्थन हटाया गया है**:
-
-* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 
 
 सभी परिवर्तन: [0.1.8...2.0.0](https://github.com/flarum-lang/hindi/compare/0.1.8...2.0.0)।
