@@ -5,36 +5,21 @@ CHANGELOG
 2.0.0 (XXXX-XX-XX)
 ------------------
 
-**सामान्य अद्यतन**:
+**General changes**:
 
-* Flarum कोर अनुवाद अपडेट किये गए हैं.
-* Flarum सत्यापन अनुवाद अपडेट किये गए हैं.
-
-
-**एक्सटेंशन के अनुवाद अपडेट किए गए हैं**:
-
-* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
-* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
-* [`flarum/akismet`](https://github.com/flarum/akismet)
-* [`flarum/approval`](https://github.com/flarum/approval)
-* [`flarum/bbcode`](https://github.com/flarum/bbcode)
-* [`flarum/emoji`](https://github.com/flarum/emoji)
-* [`flarum/flags`](https://github.com/flarum/flags)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/lock`](https://github.com/flarum/lock)
-* [`flarum/markdown`](https://github.com/flarum/markdown)
-* [`flarum/mentions`](https://github.com/flarum/mentions)
-* [`flarum/nicknames`](https://github.com/flarum/nicknames)
-* [`flarum/pusher`](https://github.com/flarum/pusher)
-* [`flarum/statistics`](https://github.com/flarum/statistics)
-* [`flarum/sticky`](https://github.com/flarum/sticky)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`flarum/suspend`](https://github.com/flarum/suspend)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* Updated Flarum core translations (32 removed).
+* Updated validation translations (32 removed).
 
 
-सभी परिवर्तन: [0.1.8...2.0.0](https://github.com/flarum-lang/hindi/compare/0.1.8...2.0.0)।
+**Updated translations for extensions**:
+
+* [`flarum/mentions`](https://github.com/flarum/mentions) (3 removed)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (4 removed)
+
+
+All changes: [0.1.8...2.0.0](https://github.com/flarum-lang/hindi/compare/0.1.8...2.0.0).
 
 
 0.1.8 (2024-04-26)
