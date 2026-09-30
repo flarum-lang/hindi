@@ -2,6 +2,26 @@ CHANGELOG
 =========
 
 
+2.0.0 (2026-09-30)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (32 removed).
+* Updated validation translations (32 removed).
+
+
+**Updated translations for extensions**:
+
+* [`flarum/mentions`](https://github.com/flarum/mentions) (3 removed, 77% complete)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed, 82% complete)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed, 76% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (4 removed, 22% complete)
+
+
+All changes: [0.1.8...2.0.0](https://github.com/flarum-lang/hindi/compare/0.1.8...2.0.0).
+
+
 0.1.8 (2024-04-26)
 ------------------
 
