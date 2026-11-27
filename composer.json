@@ -1,33 +1,26 @@
 {
 	"name": "flarum-lang/hindi",
+	"description": "Hindi Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Hindi language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/hindi",
 	"keywords": [
-		"locale",
-		"flarum",
-		"hindi-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/hindi",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "ItsNeil",
-			"homepage": "https://github.com/flarum-lang/hindi"
-		}
-	],
 	"support": {
-		"forum": "https://discuss.flarum.org/d/27790-hindi-language-pack",
 		"issues": "https://github.com/flarum-lang/hindi/issues",
+		"forum": "https://discuss.flarum.org/d/33972",
 		"source": "https://github.com/flarum-lang/hindi"
 	},
 	"require": {
 		"flarum/core": "^1.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
-			"title": "hindi",
+			"title": "Hindi",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -37,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "hi",
-			"title": "Hindi"
-		},
-		"flagrow": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "हिन्दी"
 		}
 	}
 }
